@@ -1,0 +1,8 @@
+{
+  "sourceLanguage": "ja",
+  "strings": {
+    "CFBundleDisplayName": {"extractionState":"manual","localizations":{"ja":{"stringUnit":{"state":"translated","value":"緯度経度メモ"}},"en":{"stringUnit":{"state":"translated","value":"LatLong Field Notes"}},"zh-Hans":{"stringUnit":{"state":"translated","value":"经纬度采集"}}}},
+    "NSLocationWhenInUseUsageDescription": {"extractionState":"manual","localizations":{"ja":{"stringUnit":{"state":"translated","value":"現在地の緯度・経度を表示し、選んだ地点を端末に保存するために使います。"}},"en":{"stringUnit":{"state":"translated","value":"Your location is used to display latitude and longitude and save the waypoints you choose on your device."}},"zh-Hans":{"stringUnit":{"state":"translated","value":"用于显示当前位置的经纬度，并在你的设备上保存你选择的点位。"}}}}
+  },
+  "version": "1.0"
+}
